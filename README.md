@@ -1,6 +1,8 @@
 <h1 align="center">🎓 Apni Pathshala 🎓</h1>
 <h2 align="center">A Student Monitoring System made in Django.</h2>
 
+<a href="https://vimeo.com/650843604">Project Demo on Vimeo</a>
+
 ## 🛠️ Features of Apni Pathshala:
 
 ### A. Admin Users [HOD] Can

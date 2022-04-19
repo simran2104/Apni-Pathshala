@@ -1,6 +1,8 @@
 <h1 align="center">🎓 Apni Pathshala 🎓</h1>
 <h2 align="center">A Student Monitoring System made in Django.</h2>
 
+<a href="https://vimeo.com/650843604">Project Demo on Vimeo</a>
+
 ## 🛠️ Features of Apni Pathshala:
 
 ### A. Admin Users [HOD] Can
@@ -27,3 +29,21 @@
 3. View Result
 4. Apply for Leave
 5. Send Feedback to HOD
+
+## Technologies Used:
+1. Python
+2. Django
+3. HTML, CSS, JavaScript
+4. Bootstrap
+5. MySQL
+
+## Contributing:
+Please Fork this project and send me a pull request.
+
+## Authors:
+<a href="https://simrandhiman.me/">Simran Dhiman</a>
+
+#### If you like this project hit ⭐
+#### Inspired by: <a href="https://github.com/vijaythapa333">Vijay Thapa</a>
+
+<p align="center">Thanks for reading 🙏🏽</p>
